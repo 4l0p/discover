@@ -21,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O projeto utilizado para iniciantes no desenvolvimento web chamado discover da Rcketseat.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/yxBPuAQmPyyYz1gvVc4QKw/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-345&mode=design&t=fB1CP9W7gmiIledb-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
